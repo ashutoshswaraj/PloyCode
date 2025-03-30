@@ -51,7 +51,7 @@ npm install
 
 ### 3️⃣ **Start the Server**
 ```sh
-npm start
+npm run dev
 ```
 The server will run on `http://localhost:5000`
 
