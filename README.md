@@ -15,6 +15,7 @@ The API is built using Node.js and Express.js with caching to optimize performan
 ✅ Handles invalid input gracefully
 ✅ CORS enabled for cross-origin requests
 
+curl -X GET "https://ploy-code-8vie9gwrg-ashutoshswarajs-projects.vercel.app/magic-math/4"
 
 
 🛠 Tech Stack
